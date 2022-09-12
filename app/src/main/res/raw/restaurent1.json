@@ -1,0 +1,218 @@
+[
+
+
+  {
+    "name":"McDonald's",
+    "address":" Phoenix,Lower Parel, Mumbai, 400013",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/uk/nfl/nutrition/nfl-product/product/products/mcdonalds-Chocolate-Milkshake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Triple Cheese Veg Burger",
+        "price": 215,
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1648698127/Item/5276D.png"
+      },
+      {
+        "name": "McSpicy Premium Veg Burger",
+        "price": 240,
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1648698126/Item/5275D.png"
+      },
+      {
+        "name": "McSpicy Paneer Burger",
+        "price": 180,
+        "url":"https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1589466517/Item/73.png"
+      },
+      {
+        "name": "Veg Maharaja Mac",
+        "price": 215,
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1589466827/Item/2763.png"
+      }
+    ]
+  },
+  {
+    "name": "Dominos Pizza",
+    "address": "1st Floor, Kohinoor Square, Shivaji Park, Dadar West, Mumbai,  400028",
+    "delivery_charge": 10,
+    "image":"https://b.zmtcdn.com/data/brand_creatives/logos/1a985408ca7ad8fd097f2c47db9c5cb6_1611252779.png?output-format=webp",
+
+
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Corn Cheese Pizza",
+        "price": "180",
+        "url": "https://images.dominos.co.in/Corn.jpg"
+      },
+      {
+        "name": "Peppy Paneer",
+        "price": "180",
+        "url": "https://images.dominos.co.in/new_peppy_paneer.jpg"
+      },
+      {
+        "name": "The Cheese Dominator",
+        "price": "180",
+        "url": "https://images.dominos.co.in/PIZ0170.jpg"
+      },
+      {
+        "name": "Farmhouse",
+        "price": "459",
+        "url": "https://images.dominos.co.in/farmhouse.png"
+      },
+      {
+        "name": "Margherita",
+        "price": "239",
+        "url": "https://images.dominos.co.in/new_margherita_2502.jpg"
+      },
+      {
+        "name": "Creamy Tomato Pasta Pizza - Veg",
+        "price": "459",
+        "url": "https://images.dominos.co.in/CreamyTomatoPPVG.jpg"
+      },
+      {
+        "name": "Double Cheese Margherita",
+        "price": "379",
+        "url": "https://images.dominos.co.in/double_cheese_margherita_2502.jpg"
+      },
+      {
+        "name": "Cheese n Tomato",
+        "price": "379",
+        "url": "https://images.dominos.co.in/cheese_and_tomato.png"
+      },
+      {
+        "name": "Chicken Sausage",
+        "price": "369",
+        "url": "https://images.dominos.co.in/new_chicken_sausage.jpg"
+      },
+      {
+        "name": "The Unthinkable Pizza",
+        "price": "549",
+        "url": "https://images.dominos.co.in/PIZ0167.jpg"
+      }
+    ]
+  },
+
+  {
+    "name": "Starbucks",
+    "address": " Khalsa College Brahmanwada, Matunga (C.R.), Matunga, Mumbai, Maharashtra 400019",
+    "delivery_charge": 10,
+    "image":"https://png.pngitem.com/pimgs/s/12-124256_starbucks-new-logo-2011-hd-png-download.png",
+
+
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Corn Cheese Pizza",
+        "price": "180",
+        "url": "https://images.dominos.co.in/Corn.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Pizza Hut",
+    "address": "1st Floor, Kohinoor Square, Shivaji Park, Dadar West, Mumbai,  400028",
+    "delivery_charge": 10,
+    "image": "https://b.zmtcdn.com/data/brand_creatives/logos/c38f7540bcc5a38e918856ac06409056_1504531339.png?output-format=webp",
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "abcd",
+        "price": "120",
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1589466827/Item/2763.png"
+      }
+    ]
+  },
+  {
+    "name":"Arab Resturant",
+    "address":"Shop 4 -7, Rubberwala Transit D, R.A.K. Road, Opposite Fatima High School, Sewri, Mumbai ",
+    "delivery_charge": 4,
+    "image":"https://content.jdmagicbox.com/comp/mumbai/q5/022pxx22.xx22.191112170952.t4q5/catalogue/arab-family-restaurant-mumbai-1jvtxqqwbk.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Butter Chicken",
+        "price": 280,
+        "url": "https://cdn.shopify.com/s/files/1/0072/2242/7715/products/Butter_chicken_masala_1024x1024@2x.jpg?v=1572109054"
+      },
+      {
+        "name": "Chicken HANDI",
+        "price": 460,
+        "url": "https://cdn.shortpixel.ai/spai/w_1092+q_lossy+ret_img+to_webp/https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-13.jpg"
+
+      },
+      {
+        "name": "Veg. Fried Rice",
+        "price": 180,
+        "url": "https://www.kannammacooks.com/wp-content/uploads/schezwan-veg-fried-rice-11.jpg"
+      },
+      {
+        "name": "Veg. Schezwan Fried Rice",
+        "price": 200,
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/schezwan-fried-rice.jpg"
+      },
+      {
+        "name": "Veg. noodle",
+        "price": 200,
+        "url": "https://nearbyshop.in/images/detailed/18/Arun__8__ayp6-90.png"
+      },
+
+      {
+        "name": "Paneer Butter Masala",
+        "price": 320,
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-1.jpg"
+      }
+
+    ]
+  }
+]

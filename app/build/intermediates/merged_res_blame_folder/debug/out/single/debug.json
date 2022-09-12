@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_dialog_update_password.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\dialog_update_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_eight.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\eight.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_button_3.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\button_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-xxxhdpi_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-xxxhdpi\\googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_googlepay_button_overlay.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\googlepay_button_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_order_succeess.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_pass_ecom.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_pass_ecom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_bg.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_place_your_order.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_five.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\five.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-mdpi_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-mdpi\\googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_remove_circle.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_textbox.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\textbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_serch_view_bg.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\serch_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_place_order.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_three.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\three.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\raw_restaurent.json.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\raw\\restaurent.json"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\raw_restaurent1.json.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\raw\\restaurent1.json"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_recycler_row1.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\recycler_row1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_user_ecom.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_user_ecom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\font_roboto_mono.ttf.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\font\\roboto_mono.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_googlepay_button_background.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\googlepay_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_delete_ecom.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_delete_ecom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_home_ecom.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_home_ecom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_two.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\raw_restaurent3.json.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\raw\\restaurent3.json"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_check_black.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_check_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_pink.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\pink.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-ldpi_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-ldpi\\googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-hdpi_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-hdpi\\googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_password.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_ecom_minus_button.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_ecom_minus_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_corner.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_forget_pass.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_forget_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_baseline_restaurant_menu_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_baseline_restaurant_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\menu_menu1.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\menu\\menu1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_images.jpeg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\images.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_recycler_row3.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\recycler_row3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_corner1.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\corner1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_security.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_food.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_tick.gif.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\tick.gif"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_baseline_vpn_key_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_no_item_in_cart.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\no_item_in_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_recycler_row.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_ecom_plus_button.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_ecom_plus_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_motor.gif.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\motor.gif"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_cart_tile.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\cart_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_one.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\one.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_twitter.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-xxhdpi_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-xxhdpi\\googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_six.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\six.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_new1.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\new1.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_checkout_order_item.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\checkout_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_address_tile.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\address_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\menu_search_menu.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_input_bg.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_fsplash.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_fsplash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_googlepay_button_background_image_pressed.9.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\googlepay_button_background_image_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-xhdpi_googlepay_button_content.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-xhdpi\\googlepay_button_content.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\menu_menu12.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\menu\\menu12.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_blue.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\blue.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_four.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\four.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_dp20_bg_with_stroke.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\dp20_bg_with_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_launcherplaystore.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_launcherplaystore.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-anydpi-v24_googlepay_button_content.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-pngs-42:\\drawable-anydpi-v24\\googlepay_button_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_cart_screens.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_cart_screens.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\raw_order_complete_anim.json.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\raw\\order_complete_anim.json"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_place_order_recycler_row.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_slider_item.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\slider_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\font_roboto_mono_medium.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\font\\roboto_mono_medium.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-merged_res-47:/layout_fragment_home.xml.flat",
+        "source": "com.android.foodorderapp-main-49:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_fsplash.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_fsplash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_logo1.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_addmoney.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\addmoney.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_googlepay_button_background_image_focused.9.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\googlepay_button_background_image_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_dollar_svg.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_dollar_svg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_fb.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_cartbutton.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_cartbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_dp30_lightgray_bg.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\dp30_lightgray_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_dp20_bg_with_stroke1.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\dp20_bg_with_stroke1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_menu_recycler_row.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\menu_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_gpayloco.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\gpayloco.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_googlepay_button_background_image.9.png.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\googlepay_button_background_image.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_newjpg.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\newjpg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_mail_ecom.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_mail_ecom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_ecom_tick.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_ecom_tick.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_border.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_logout_icon.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_ic_baseline_mail_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\ic_baseline_mail_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable_ic_baseline_power_settings_new_24.xml.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable\\ic_baseline_power_settings_new_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\font_roboto_mono_bold.ttf.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\font\\roboto_mono_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-merged_res-47:\\drawable-v24_seven.jpg.flat",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\drawable-v24\\seven.jpg"
+    }
+]

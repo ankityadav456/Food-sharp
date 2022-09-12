@@ -1,0 +1,267 @@
+[
+  {
+    "name":"Arab Resturant",
+    "address":"Shop 4 -7, Rubberwala Transit D, R.A.K. Road, Opposite Fatima High School, Sewri, Mumbai ",
+    "delivery_charge": 4,
+    "image":"https://content.jdmagicbox.com/comp/mumbai/q5/022pxx22.xx22.191112170952.t4q5/catalogue/arab-family-restaurant-mumbai-1jvtxqqwbk.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Butter Chicken",
+        "price": 280,
+        "url": "https://cdn.shopify.com/s/files/1/0072/2242/7715/products/Butter_chicken_masala_1024x1024@2x.jpg?v=1572109054"
+      },
+      {
+        "name": "Chicken HANDI",
+        "price": 460,
+        "url": "https://cdn.shortpixel.ai/spai/w_1092+q_lossy+ret_img+to_webp/https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-13.jpg"
+
+      },
+      {
+        "name": "Veg. Fried Rice",
+        "price": 180,
+        "url": "https://www.kannammacooks.com/wp-content/uploads/schezwan-veg-fried-rice-11.jpg"
+      },
+      {
+        "name": "Veg. Schezwan Rice",
+        "price": 200,
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/schezwan-fried-rice.jpg"
+      },
+      {
+        "name": "Veg. noodle",
+        "price": 200,
+        "url": "https://nearbyshop.in/images/detailed/18/Arun__8__ayp6-90.png"
+      },
+      {
+        "name": "Paneer Butter Masala",
+        "price": 320,
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-1.jpg"
+      }
+
+    ]
+  },
+
+  {
+    "name":"McDonald's",
+    "address":" Phoenix,Lower Parel, Mumbai, 400013",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/uk/nfl/nutrition/nfl-product/product/products/mcdonalds-Chocolate-Milkshake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Triple Cheese Veg Burger",
+        "price": 215,
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1648698127/Item/5276D.png"
+      },
+      {
+        "name": "McSpicy Premium Veg Burger",
+        "price": 240,
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1648698126/Item/5275D.png"
+      },
+      {
+        "name": "McSpicy Paneer Burger",
+        "price": 180,
+        "url":"https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1589466517/Item/73.png"
+      },
+      {
+        "name": "Veg Maharaja Mac",
+        "price": 215,
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1589466827/Item/2763.png"
+      }
+    ]
+  },
+  {
+    "name": "Pizza Hut",
+    "address": "1st Floor, Kohinoor Square, Shivaji Park, Dadar West, Mumbai,  400028",
+    "delivery_charge": 10,
+    "image": "data:image/png;base64,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",
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "abcd",
+        "price": "120",
+        "url": "https://images.mcdelivery.co.in/hardcastle-restaurants-pvt-ltd/image/upload/f_auto,q_auto,w_500/v1589466827/Item/2763.png"
+      }
+      ]
+  },
+  {
+    "name": "Starbucks",
+    "address": " Khalsa College Brahmanwada, Matunga (C.R.), Matunga, Mumbai, Maharashtra 400019",
+    "delivery_charge": 10,
+    "image":"https://www.freepnglogos.com/uploads/starbucks-logo-png-transparent-0.png",
+
+
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Corn Cheese Pizza",
+        "price": "180",
+        "url": "https://images.dominos.co.in/Corn.jpg"
+      }
+      ]
+  },
+  {
+    "name": "Dominos Pizza",
+    "address": "1st Floor, Kohinoor Square, Shivaji Park, Dadar West, Mumbai,  400028",
+    "delivery_charge": 10,
+    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominos_pizza_logo.svg/768px-Dominos_pizza_logo.svg.png?20111115123340",
+
+
+    "hours": {
+      "Sunday": "11:00 AM - 7:00 PM",
+      "Monday": "10:00 AM - 10:00 PM",
+      "Tuesday": "10:00 AM - 10:00 PM",
+      "Wednesday": "10:00 AM - 8:00 PM",
+      "Thursday": "10:00 AM - 10:00 PM",
+      "Friday": "10:00 AM - 10:00 PM",
+      "Saturday": "10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Corn Cheese Pizza",
+        "price": "180",
+        "url": "https://images.dominos.co.in/Corn.jpg"
+      },
+      {
+        "name": "Peppy Paneer",
+        "price": "180",
+        "url": "https://images.dominos.co.in/new_peppy_paneer.jpg"
+      },
+      {
+        "name": "The Cheese Dominator",
+        "price": "180",
+        "url": "https://images.dominos.co.in/PIZ0170.jpg"
+      },
+      {
+        "name": "Farmhouse",
+        "price": "459",
+        "url": "https://images.dominos.co.in/farmhouse.png"
+      },
+      {
+        "name": "Margherita",
+        "price": "239",
+        "url": "https://images.dominos.co.in/new_margherita_2502.jpg"
+      },
+      {
+        "name": "Creamy Tomato Pasta Pizza - Veg",
+        "price": "459",
+        "url": "https://images.dominos.co.in/CreamyTomatoPPVG.jpg"
+      },
+      {
+        "name": "Double Cheese Margherita",
+        "price": "379",
+        "url": "https://images.dominos.co.in/double_cheese_margherita_2502.jpg"
+      },
+      {
+        "name": "Cheese n Tomato",
+        "price": "379",
+        "url": "https://images.dominos.co.in/cheese_and_tomato.png"
+      },
+      {
+        "name": "Chicken Sausage",
+        "price": "369",
+        "url": "https://images.dominos.co.in/new_chicken_sausage.jpg"
+      },
+      {
+        "name": "The Unthinkable Pizza",
+        "price": "549",
+        "url": "https://images.dominos.co.in/PIZ0167.jpg"
+      }
+    ]
+  },
+
+  {
+    "name":"Arab Resturant",
+    "address":"Shop 4 -7, Rubberwala Transit D, R.A.K. Road, Opposite Fatima High School, Sewri, Mumbai ",
+    "delivery_charge": 4,
+    "image":"https://content.jdmagicbox.com/comp/mumbai/q5/022pxx22.xx22.191112170952.t4q5/catalogue/arab-family-restaurant-mumbai-1jvtxqqwbk.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Butter Chicken",
+        "price": 280,
+        "url": "https://cdn.shopify.com/s/files/1/0072/2242/7715/products/Butter_chicken_masala_1024x1024@2x.jpg?v=1572109054"
+      },
+      {
+        "name": "Chicken HANDI",
+        "price": 460,
+        "url": "https://cdn.shortpixel.ai/spai/w_1092+q_lossy+ret_img+to_webp/https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-13.jpg"
+
+      },
+      {
+        "name": "Veg. Fried Rice",
+        "price": 180,
+        "url": "https://www.kannammacooks.com/wp-content/uploads/schezwan-veg-fried-rice-11.jpg"
+      },
+      {
+        "name": "Veg. Schezwan Fried Rice",
+        "price": 200,
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/02/schezwan-fried-rice.jpg"
+      },
+      {
+        "name": "Veg. noodle",
+        "price": 200,
+        "url": "https://nearbyshop.in/images/detailed/18/Arun__8__ayp6-90.png"
+      },
+
+      {
+        "name": "Paneer Butter Masala",
+        "price": 320,
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-1.jpg"
+      }
+
+    ]
+  }
+]

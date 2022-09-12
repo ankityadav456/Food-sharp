@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_place_your_order.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\recycler_row3.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\recycler_row3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\fragment_setting.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_forget_pass.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_forget_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_cart_screens.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_cart_screens.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\slider_item.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\slider_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_place_order.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_place_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\dialog_update_password.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\dialog_update_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\recycler_row.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_order_succeess.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_order_succeess.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\address_tile.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\address_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\place_order_recycler_row.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\place_order_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_restaurant_menu.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.android.foodorderapp-main-49:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\recycler_row1.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\recycler_row1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\checkout_order_item.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\checkout_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\cart_tile.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\cart_tile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-mergeDebugResources-46:\\layout\\menu_recycler_row.xml",
+        "source": "C:\\Users\\ankit\\.gradle\\daemon\\7.3.3\\com.android.foodorderapp-main-49:\\layout\\menu_recycler_row.xml"
+    }
+]
